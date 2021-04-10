@@ -1,0 +1,174 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+  background-image: radial-gradient(#f0f0f0 10%, #ffffff 10%);
+  background-position: 0 0;
+  background-size: 22px 22px;
+  width: 100%;
+
+}
+
+
+.top-section {
+  margin-top: 5px;
+  margin-bottom:5px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.about-section {
+  background-color: #AC3B61;
+  color: #ffffff;
+  margin-top: 15px;
+  margin-bottom:15px;
+  padding: 20px;
+}
+
+.about-p {
+  font-size: 16px;
+  text-align: justify;
+}
+
+.detail-section {
+  margin-top:20px;
+  text-align: justify;
+}
+
+.intro-sub{
+  padding-left: 15px;
+}
+
+.pic-col{
+  align-items: center
+}
+
+#id_pic {
+  max-width: 250px;
+  height: auto;
+  border-width: 2px;
+  border-color: #123C69;
+}
+
+.display-4 {
+  font-family: 'Yeseva One', cursive;
+  font-size: 38px;
+  color: #123C69;
+}
+
+.hello {
+  font-size: 54px;
+}
+
+.imewa {
+  margin-bottom: 20px;
+}
+
+.lead {
+  font-family: 'Josefin Sans', sans-serif;
+  margin-bottom: 2px;
+  font-size: 18px;
+}
+
+h4 {
+  font-family: 'Yeseva One', cursive;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.whitetext {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.navytext {
+  color:  #123C69;
+}
+
+.extra-padding{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 14px;
+}
+
+.ravelry {
+  padding: 20px,0,20px,0;
+  text-align: center;
+}
+
+.ravelry-p {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.fa-ravelry {
+  margin-right: 10px;
+}
+
+footer {
+  background-color: #123C69;
+  color: #ffffff;
+  margin: 0px;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+
+.embed-responsive{
+  width: 85%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+footer div {
+  display: inline-block;
+}
+
+footer p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+iframe {
+  margin: 0 10 0 10;
+}
+
+a:link {
+  color: #ffffff;
+}
+
+
+a:visited {
+  color: #ffffff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #EDC7B7;
+}
+
+
+a.navy-link:link {
+  color: #123C69;
+}
+
+a.navy-link:visited {
+  color: #123C69;
+}
+
+a.navy-link:hover{
+  text-decoration: none;
+  color: #EDC7B7;
+}
